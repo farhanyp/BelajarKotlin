@@ -10,6 +10,6 @@ class Contravariant<in T> {
 
 //    Tidak bisa mengoutputkan data
 //    fun getHello(): T{
-//        return data;
+//
 //    }
 }
