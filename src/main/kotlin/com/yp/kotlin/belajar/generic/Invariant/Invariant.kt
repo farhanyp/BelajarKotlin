@@ -1,4 +1,4 @@
-package com.yp.kotlin.belajar.generic.GenericClass
+package com.yp.kotlin.belajar.generic.Invariant
 
 import com.yp.kotlin.belajar.generic.Class.Invariant
 
