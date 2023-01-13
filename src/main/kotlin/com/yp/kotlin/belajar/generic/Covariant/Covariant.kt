@@ -7,6 +7,7 @@ fun main(){
     val CovariantString = Covariant<String>("Farhan")
     val CovariantAny: Covariant<Any> = CovariantString
 
-    println(CovariantAny.data())
+    println("ini adalah data covariant dari String${CovariantString.data()}")
+    println("ini adalah data covariant dari ANY${CovariantAny.data()}")
 
 }
