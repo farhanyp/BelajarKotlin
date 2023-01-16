@@ -1,5 +1,6 @@
 package com.yp.kotlin.belajar.collection.Collection
 
+//Collection merupakan super class dari list, set dll
 // fungsi untuk menangkap semua struktur data yang turunan dari Collection
 fun <T> displayCollection(param: Collection<T>){
     for(value in param){
